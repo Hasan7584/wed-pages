@@ -1,0 +1,14 @@
+*{padding: 20px ; margin-right: 20px;} 
+ 
+ div{ display: inline-block;}
+.khan{
+    background-image: url(../style/image/doremon.jpg);
+    height: 500px; width: 500px;
+    background-repeat: no-repeat;
+ display: flexbox;
+   
+}
+.lol{
+    background-image: url(../style/image/6vcmez2bl2v81.jpg);
+    height: 500px; width: 500px;
+    background-repeat: no-repeat;
